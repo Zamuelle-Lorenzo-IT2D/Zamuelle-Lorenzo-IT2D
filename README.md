@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zamuelle Timothy H. Lorenzo</h1>
-<h3 align="left">Hi! I am Zam and this is my GitHub account I'm currently studying at Laguna State Polytechnic University - Santa Cruz Campus (LSPU - SCC). I believe on "Even there was a small progress at least you are moving"</h3>
+
 
 - 🔭 I’m currently working on: **Being a Front-end developer**
 
