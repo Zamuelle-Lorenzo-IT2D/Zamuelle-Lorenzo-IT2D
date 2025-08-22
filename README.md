@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, Im Zamuelle Timothy H. Lorenzo 
 
-<!--
-**Zamuelle-Lorenzo-IT2D/Zamuelle-Lorenzo-IT2D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏽ABOUT ME
+- 2nd Year BSIT Student at Laguna State Polytrechnic University
+- Currently learning Python, HTML, and CSS
+- Goal: Become a Web and Mobile Application and build my own company
+- Interested in UI/UX design and Software Development.
 
-Here are some ideas to get you started:
+💡SKILLS
+- Languages: C#, Java, Python, HTML, CSS
+- Framewroks/Tools: Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HOBBIES NON IT RELATED
+- Gym
+- Making Coffee
+- Cooking
+
+📩CONTACT INFOORMATION
+- lorenzotimothy48@gmail.com
