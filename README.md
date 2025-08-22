@@ -18,6 +18,7 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 </div>
 
 <div>
+  <p>
   - 🔭 I’m currently working on: **Being a Front-end developer**
 
   - 🌱 I’m currently learning: **HTML, CSS**
@@ -27,6 +28,8 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
   - 📍 Lives in: **Santa Cruz, Laguna**
 
   - 📫 Email: **lorenzotimothy48@gmail.com**
+  </p>
+
 </div>
 
 <div>
