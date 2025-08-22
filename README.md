@@ -1,8 +1,17 @@
+<div>
 <h1 align="center">Hi 👋, I'm Zamuelle Timothy H. Lorenzo</h1>
+</div>
+
+<div>
+  <h3 align="left">Introdcution </h3>
+</div>
+
+Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Studying at Laguna State Polytechnic Universuty - Santa Cruz Campus (LSPU - SCC). I am also part of the student leaders here in College of Computer Studies, serving the students is in my heart. What makes me different from others is the way I trurn challenges into opportunities to learn and improve. Making a mistake is just a part of the progress, if I dont fail I wont learn.
+
 <div>
 <h3 aling="left"> About Me </h3>
 </div>
-<h1> </h1>
+
 
 - 🔭 I’m currently working on: **Being a Front-end developer**
 
