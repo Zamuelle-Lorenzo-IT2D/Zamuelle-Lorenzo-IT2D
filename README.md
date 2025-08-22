@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zamuelle Timothy H. Lorenzo</h1>
 <h3 aling="left"> About Me </h3>
-
+<h1/h1>
 
 - 🔭 I’m currently working on: **Being a Front-end developer**
 
