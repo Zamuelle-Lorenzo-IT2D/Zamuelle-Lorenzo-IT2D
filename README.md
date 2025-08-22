@@ -4,7 +4,12 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zamuelle-lorenzo-it2d&label=Profile%20views&color=0e75b6&style=flat" alt="zamuelle-lorenzo-it2d" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zamuelle-lorenzo-it2d&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/zamuelle-lorenzo-it2d?tab=followers">
+    <img src="https://img.shields.io/github/followers/zamuelle-lorenzo-it2d?label=Followers&logo=github&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
 <div>
   <hr style="height: 4px; background-color: black; boarder: none;">
@@ -22,6 +27,17 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
   <h1> </h1>
 </div>
 
+<div>
+  <h3 align="left"> Goals </h3>
+</div>
+
+<div>
+
+  - Master being a **Front-end developer**
+  - Learn New Languages
+  - Be a fullstack developer
+    
+</div>
   
 <h3 aling="left"> About Me </h3>
 </div>
@@ -42,6 +58,7 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
   </p>
 
 </div>
+
 
 <diV>
   <h1></h1>
@@ -64,7 +81,7 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 </div>
 
 <div>
-  <hr style="height: 4px; background-color: black; boarder: none;">
+  <h1> </h1>
 </div>
 
 <div>
@@ -73,4 +90,12 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 <a href="https://fb.com/@zamuelletimothy18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@zamuelletimothy18" height="30" width="40" /></a>
 <a href="https://instagram.com/zamiii.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zamiii.l" height="30" width="40" /></a>
 </p>
+</div>
+
+<div>
+  <hr style="height: 4px; background-color: black; boarder: none;">
+</div>
+
+<div>
+  ✨"𝓜𝓪𝓴𝓲𝓷𝓰 𝓪 𝓶𝓲𝓼𝓽𝓪𝓴𝓮 𝓭𝓸𝓮𝓼𝓷'𝓽 𝓶𝓪𝓴𝓮 𝔂𝓸𝓾 𝓪 𝓯𝓪𝓲𝓵𝓾𝓻𝓮, 𝓲𝓽 𝓼𝓱𝓸𝔀𝓼 𝓽𝓱𝓪𝓽 𝔂𝓸𝓾 𝓪𝓻𝓮 𝓼𝓽𝓲𝓵𝓵 𝓽𝓻𝔂𝓲𝓷𝓰 𝓯𝓸𝓻 𝓼𝓾𝓬𝓬𝓮𝓼."
 </div>
