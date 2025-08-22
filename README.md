@@ -29,6 +29,16 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
   - 📫 Email: **lorenzotimothy48@gmail.com**
 </div>
 
+<div>
+  <h3>Hobbies (Non IT Related) </h3>
+</div>
+
+<div>
+  - Gym 
+  - Making Coffee
+  - Cooking
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
