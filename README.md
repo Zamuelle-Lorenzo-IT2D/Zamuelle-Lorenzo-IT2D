@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm Za,uelle Timothy H. Lorenzo</h1>
+<h1 align="center">Hi 👋, I'm Zamuelle Timothy H. Lorenzo</h1>
 <h3 align="center">Hi! I am Zam and this is my GitHub account I'm currently studying at Laguna State Polytechnic University - Santa Cruz Campus (LSPU - SCC). I believe on "Even there was a small progress at least you are moving"</h3>
 
 - 🔭 I’m currently working on: **Being a Front-end developer**
 
 - 🌱 I’m currently learning: **HTML, CSS**
 
+- 📍 Lives in **Santa Cruz, Laguna**
+
 - 📫 How to reach me **lorenzotimothy48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/@zamuelletimothy18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@zamuelletimothy18" height="30" width="40" /></a>
+<a href="https://instagram.com/zamiii.l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zamiii.l" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
