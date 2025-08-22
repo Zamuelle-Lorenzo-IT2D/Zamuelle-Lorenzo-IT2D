@@ -5,12 +5,13 @@
 - Currently learning Python, HTML, and CSS
 - Goal: Become a Web and Mobile Application and build my own company
 - Interested in UI/UX design and Software Development.
+- Inofrmation Technology Unity Hub (ITUH) - President 2024 - 2025
 
 💡SKILLS
 - Languages: C#, Java, Python, HTML, CSS
 - Framewroks/Tools: Github
 
-HOBBIES NON IT RELATED
+💪HOBBIES NON IT RELATED
 - Gym
 - Making Coffee
 - Cooking
