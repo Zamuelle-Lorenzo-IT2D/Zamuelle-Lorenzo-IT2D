@@ -34,7 +34,7 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 
   - 🌱 I’m currently learning: **HTML, CSS**
 
-  - 🎖️ Information Technilogy Unity Hub (ITUH): **President** (2024-2025)
+  - 🎖️ Information Technilogy Unity Hub (ITUH): **President** (A.Y. 2024-2025)
 
   - 📍 Lives in: **Santa Cruz, Laguna**
 
