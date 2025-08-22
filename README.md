@@ -45,11 +45,11 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 <div>
 
   
-  - Gym 
+  - 🏋️‍♂️ Gym 
   
-  - Making Coffee
+  - ☕ Making Coffee
     
-  - Cooking
+  - 🔪 Cooking
 </div>
 
 
