@@ -39,20 +39,8 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 </diV>
 
 <div>
-  <h3>Hobbies (Non IT Related) </h3>
+  <h1></h1>
 </div>
-
-<div>
-
-  
-  - 🏋️‍♂️ Gym 
-  
-  - ☕ Making Coffee
-    
-  - 🔪 Cooking
-</div>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/@zamuelletimothy18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@zamuelletimothy18" height="30" width="40" /></a>
