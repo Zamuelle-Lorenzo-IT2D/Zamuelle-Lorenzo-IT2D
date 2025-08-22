@@ -9,17 +9,26 @@
 Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Studying at Laguna State Polytechnic Universuty - Santa Cruz Campus (LSPU - SCC). I am also part of the student leaders here in College of Computer Studies, serving the students is in my heart. What makes me different from others is the way I trurn challenges into opportunities to learn and improve. Making a mistake is just a part of the progress, if I dont fail I wont learn.
 
 <div>
+
+<div>
+  <h1> </h1>
+</div>
+  
 <h3 aling="left"> About Me </h3>
 </div>
 
+<div>
+  - 🔭 I’m currently working on: **Being a Front-end developer**
 
-- 🔭 I’m currently working on: **Being a Front-end developer**
+  - 🌱 I’m currently learning: **HTML, CSS**
 
-- 🌱 I’m currently learning: **HTML, CSS**
+  - 🎖️ Information Technilogy Unity Hub (ITUH): **President** (2024-2025)
 
-- 📍 Lives in: **Santa Cruz, Laguna**
+  - 📍 Lives in: **Santa Cruz, Laguna**
 
-- 📫 Email: **lorenzotimothy48@gmail.com**
+  - 📫 Email: **lorenzotimothy48@gmail.com**
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
