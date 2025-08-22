@@ -19,6 +19,8 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 
 <div>
   <p>
+
+    
   - 🔭 I’m currently working on: **Being a Front-end developer**
 
   - 🌱 I’m currently learning: **HTML, CSS**
@@ -37,6 +39,8 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 </div>
 
 <div>
+
+  
   - Gym 
   
   - Making Coffee
