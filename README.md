@@ -2,7 +2,13 @@
 <h1 align="center">Hi 👋, I'm Zamuelle Timothy H. Lorenzo</h1>
 </div>
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zamuelle-lorenzo-it2d&label=Profile%20views&color=0e75b6&style=flat" alt="zamuelle-lorenzo-it2d" /> </p>
+
+<div>
+  <hr style="height: 4px; background-color: black; boarder: none;">
+</div>
 
 <div>
   <h3 align="left">Introdcution </h3>
@@ -57,7 +63,9 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zamuelle-lorenzo-it2d&show_icons=true&locale=en" alt="zamuelle-lorenzo-it2d" /></p>
 </div>
 
-
+<div>
+  <hr style="height: 4px; background-color: black; boarder: none;">
+</div>
 
 <div>
   <h3 align="left">Connect with me:</h3>
