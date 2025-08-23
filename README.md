@@ -24,7 +24,7 @@
 
 </p>
 
-https://www.wilsoncenter.org/sites/default/files/media/images/person/james-person-1.jpg
+
 
 <div>
   <h1> </h1>
