@@ -16,19 +16,22 @@
 </div>
 
 <div>
-  <h3 align="left">Introdcution </h3>
+  <h3 align="left">👤Introdcution </h3>
 </div>
 
-Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Studying at Laguna State Polytechnic Universuty - Santa Cruz Campus (LSPU - SCC). I am also part of the student leaders here in College of Computer Studies, serving the students is in my heart. What makes me different from others is the way I trurn challenges into opportunities to learn and improve. Making a mistake is just a part of the progress, if I dont fail I wont learn.
+<p>
+  Hi! This is my GitHub Account You can just call me **Zam**. I am currently Studying at Laguna State Polytechnic Universuty - Santa Cruz Campus (LSPU - SCC). I am also part of the     student leaders here in the College of Computer Studies, serving the students is in my heart. What makes me different from others is the way I trurn challenges into opportunities to learn and improve. Making a mistake is just a part of the progress, if I dont fail I can't learn.
 
-<div>
+</p>
+
+https://www.wilsoncenter.org/sites/default/files/media/images/person/james-person-1.jpg
 
 <div>
   <h1> </h1>
 </div>
 
 <div>
-  <h3 align="left"> Goals </h3>
+  <h3 align="left">🎯Goals </h3>
 </div>
 
 <div>
@@ -39,7 +42,7 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
     
 </div>
   
-<h3 aling="left"> About Me </h3>
+<h3 aling="left">ℹ️About Me </h3>
 </div>
 
 <div>
@@ -47,6 +50,8 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
   
     
   - 🔭 I’m currently working on: **Being a Front-end developer**
+    
+  - 🤖 Interested on: **UI/UX, Machines and Robotics**
 
   - 🌱 I’m currently learning: **HTML, CSS**
 
@@ -67,18 +72,26 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 
 
 
-<div>
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-</div>
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+<h3 align="left">Front end:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
 
 <div>
-  <h1> </h1>
+  <h2>My GitHub Stats</h2>
 </div>
 
-<div>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zamuelle-lorenzo-it2d&show_icons=true&locale=en" alt="zamuelle-lorenzo-it2d" /></p>
-</div>
+
 
 <div>
   <h1> </h1>
@@ -92,9 +105,11 @@ Hi! This is my GitHub Account You can just call me **Zam**. I am currentyly Stud
 </p>
 </div>
 
+
 <div>
   <hr style="height: 4px; background-color: black; boarder: none;">
 </div>
+
 
 <div>
   ✨"𝓜𝓪𝓴𝓲𝓷𝓰 𝓪 𝓶𝓲𝓼𝓽𝓪𝓴𝓮 𝓭𝓸𝓮𝓼𝓷'𝓽 𝓶𝓪𝓴𝓮 𝔂𝓸𝓾 𝓪 𝓯𝓪𝓲𝓵𝓾𝓻𝓮, 𝓲𝓽 𝓼𝓱𝓸𝔀𝓼 𝓽𝓱𝓪𝓽 𝔂𝓸𝓾 𝓪𝓻𝓮 𝓼𝓽𝓲𝓵𝓵 𝓽𝓻𝔂𝓲𝓷𝓰 𝓯𝓸𝓻 𝓼𝓾𝓬𝓬𝓮𝓼."
