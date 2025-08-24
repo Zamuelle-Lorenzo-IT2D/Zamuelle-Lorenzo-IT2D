@@ -19,10 +19,10 @@
   <h3 align="left">👤Introdcution </h3>
 </div>
 
-<p>
-  Hi! This is my GitHub Account You can just call me **Zam**. I am currently Studying at Laguna State Polytechnic Universuty - Santa Cruz Campus (LSPU - SCC). I am also part of the     student leaders here in the College of Computer Studies, serving the students is in my heart. What makes me different from others is the way I trurn challenges into opportunities to learn and improve. Making a mistake is just a part of the progress, if I dont fail I can't learn.
 
-</p>
+  Hi! This is my GitHub Account You can just call me **Zam** . I am currently Studying at Laguna State Polytechnic Universuty - Santa Cruz Campus (LSPU - SCC). I am also part of the     student leaders here in the College of Computer Studies, serving the students is in my heart. What makes me different from others is the way I trurn challenges into opportunities to learn and improve. Making a mistake is just a part of the progress, if I dont fail I can't learn.
+
+
 
 
 
