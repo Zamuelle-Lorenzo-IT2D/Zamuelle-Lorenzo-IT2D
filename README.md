@@ -1,5 +1,5 @@
 <div>
-<h1 align="center">Hi 👋, I'm Zamuelle Timothy H. Lorenzo</h1>
+<h1 align="center">Hi, I'm Zamuelle Timothy H. Lorenzo ✨</h1>
 </div>
 
 
@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <h3 align="left">🎯Goals </h3>
+  <h3 align="left">🎯 Goals </h3>
 </div>
 
 <div>
@@ -42,7 +42,7 @@
     
 </div>
   
-<h3 aling="left">ℹ️About Me </h3>
+<h3 aling="left">ℹ️ About Me </h3>
 </div>
 
 <div>
